@@ -14,7 +14,7 @@ body {
 }
 
 /* Task 1 */
-#categories {
+/* #categories {
  
   width: 392px;
   padding-left: 0;
@@ -48,8 +48,8 @@ body {
   border: 1px solid #808080;
   border-radius: 4px;
   
-}
-
+} */
+/* Task 2 */
 /* ul {
   display: flex;
     flex-wrap: wrap;
@@ -58,9 +58,9 @@ body {
     align-items: center;
     row-gap: 48px;
     column-gap: 24px;
-} */
+}
 
-/* .gallery li {
+ .gallery li {
   list-style: none;
 }
 
@@ -68,3 +68,32 @@ body {
   width: 360px;
   height: 300px;
 } */
+
+/* Task 3 */
+#name-input {
+  border: 1px solid #808080;
+border-radius: 4px;
+padding-left: 16px;
+padding-top: 8px;
+padding-bottom: 8px;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #2e2f42;
+background: #fff;
+width: 360px;
+
+}
+h1 {
+  font-weight: 600;
+font-size: 24px;
+line-height: 133%;
+letter-spacing: 0.04em;
+color: #2e2f42;
+
+}
+body {
+  background-color: white;
+
+}
