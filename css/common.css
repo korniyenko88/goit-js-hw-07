@@ -14,7 +14,7 @@ body {
 }
 
 /* Task 1 */
-/* #categories {
+#categories {
  
   width: 392px;
   padding-left: 0;
@@ -48,7 +48,9 @@ body {
   border: 1px solid #808080;
   border-radius: 4px;
   
-} */
+}
+
+
 /* Task 2 */
 /* ul {
   display: flex;
@@ -68,6 +70,8 @@ body {
   width: 360px;
   height: 300px;
 } */
+
+
 
 /* Task 3 */
 /* #name-input {
@@ -97,6 +101,7 @@ body {
   background-color: white;
 
 } */
+
 
 /* Task 4 */
 /* form {
@@ -138,6 +143,8 @@ button {
   background-color: #4e75ff; 
 } */
 
+
+
 /* Task 5 */
 /* p {
   font-family: "Montserrat", sans-serif;
@@ -168,7 +175,7 @@ button {
 } */
 
 /* Tsk 6 */
-body {
+/* body {
   background: #fff;
 }
 #controls {
@@ -230,4 +237,4 @@ button {
   padding: 32px;
   width: 486px;
   height: 134px;
-}
+} */
