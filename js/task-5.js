@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   changeColorButton.addEventListener("click", function() {
     body.style.background = `${getRandomHexColor()}`;
-    colorSpan.textContent = `${getRandomHexColor()}`;
+    colorSpan.textContent = `${ body.style.background}`;
   });
 
   
